@@ -9,7 +9,6 @@
 
 ## 🌐 Conecta conmigo
 <p align="center">
-  <a href="https://instagram.com/antonpernas" target="_blank"><img src="https://img.shields.io/badge/Instagram-_antonpernas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/antonio-pernas-gonz%C3%A1lez-1392b1265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Antonio-blue?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" /></a>
 </p>
@@ -22,8 +21,6 @@ alt="LinkedIn" /></a>
 <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=c" title="C" height="50" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=elixir" title="Elixir" height="50" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="50" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=html" title="HTML" height="50" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=python" title="Python" height="50" style="margin:10px"/>
 </p>
 
@@ -55,10 +52,3 @@ alt="LinkedIn" /></a>
 </p>
 
 ---
-<p align="center">😁 Dato Curioso 😁</p>
-
-<p align="center">
-<small>Disfruto probando herramientas diferentes,me apasiona el mundo del motor, la mecánica, el surf y la tecnología en general</small>
-</p>
-
-<p align="center"></p>
